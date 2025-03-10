@@ -51,10 +51,10 @@ west flash
 west espressif monitor
 ```
 
-## 🖼️ Example Image / GIF
+## 🖼️ Example
 
-<!-- Add your photo or GIF here -->
-![Blink Example Running](images/blink-demo.gif)
+![video_2025-03-10_19-07-45](https://github.com/user-attachments/assets/225d9630-fa27-4f30-9520-8a4b612b2198)
+
 
 ## 📂 Project Structure
 
